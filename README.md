@@ -353,7 +353,7 @@ gitGraph
 
 <div align="center">
 
-Distributed under the **MIT License**. See `LICENSE` for more information.
+Distributed under the **MIT License**.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
